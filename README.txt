@@ -1,0 +1,1 @@
+Replace profile-placeholder.png, card-placeholder.png and qr-placeholder.png with your own images. Also add card.png and card.pdf.
