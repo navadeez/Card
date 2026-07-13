@@ -10,9 +10,10 @@ h1{font-size:3rem;margin-top:12px}h2{font-weight:500;color:#bcd3ff;margin:8px 0 
 .actions{display:grid;grid-template-columns:repeat(2,minmax(150px,1fr));gap:14px;margin-top:28px}
 .actions a,.downloads a{background:rgba(255,255,255,.1);padding:14px;border-radius:12px;text-decoration:none;color:#fff;text-align:center;transition:.3s;border:1px solid rgba(255,255,255,.1)}
 .actions a:hover,.downloads a:hover{transform:translateY(-4px);background:#2563eb}
-.section{margin-top:50px;text-align:center}.business{width:100%;max-width:700px;border-radius:20px;border:2px dashed rgba(255,255,255,.25);padding:10px;background:rgba(255,255,255,.05)}
+.section{margin-top:50px;text-align:center}.business{width:100%;max-width:100px;border-radius:20px;border:2px dashed rgba(255,255,255,.25);padding:10px;background:rgba(255,255,255,.05)}
 .downloads{display:flex;justify-content:center;gap:15px;flex-wrap:wrap;margin-top:24px}
 .grid{display:grid;grid-template-columns:1fr 300px;gap:25px;margin-top:40px}.box{background:rgba(255,255,255,.06);padding:24px;border-radius:18px}.center{text-align:center}.qr{width:180px;background:#fff;padding:10px;border-radius:14px}
 footer{text-align:center;margin-top:35px;color:#d0d0d0}
 @keyframes float{50%{transform:translateY(-20px) translateX(10px)}}
 @media(max-width:850px){.hero,.grid{grid-template-columns:1fr}h1{font-size:2.2rem}.actions{grid-template-columns:1fr}.photo{width:200px;height:200px}}
+
